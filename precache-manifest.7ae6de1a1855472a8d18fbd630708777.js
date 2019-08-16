@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97f4daf60217b46c58d3e0cd7f5a78ef",
+    "revision": "68bf01769353ef5091f91b5f6499374a",
     "url": "/Minside/index.html"
   },
   {
