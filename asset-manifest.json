@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Minside/static/css/main.f360fc94.chunk.css",
-    "main.js": "/Minside/static/js/main.c13057a5.chunk.js",
-    "main.js.map": "/Minside/static/js/main.c13057a5.chunk.js.map",
+    "main.js": "/Minside/static/js/main.3ba45039.chunk.js",
+    "main.js.map": "/Minside/static/js/main.3ba45039.chunk.js.map",
     "runtime~main.js": "/Minside/static/js/runtime~main.9981f551.js",
     "runtime~main.js.map": "/Minside/static/js/runtime~main.9981f551.js.map",
     "static/js/2.45a148ca.chunk.js": "/Minside/static/js/2.45a148ca.chunk.js",
     "static/js/2.45a148ca.chunk.js.map": "/Minside/static/js/2.45a148ca.chunk.js.map",
     "index.html": "/Minside/index.html",
-    "precache-manifest.6933515d6132825106989c452610be10.js": "/Minside/precache-manifest.6933515d6132825106989c452610be10.js",
+    "precache-manifest.85a37b9295b3079894763785d61a8014.js": "/Minside/precache-manifest.85a37b9295b3079894763785d61a8014.js",
     "service-worker.js": "/Minside/service-worker.js",
     "static/css/main.f360fc94.chunk.css.map": "/Minside/static/css/main.f360fc94.chunk.css.map"
   }
