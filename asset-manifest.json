@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Minside/static/css/main.2cce8147.chunk.css",
-    "main.js": "/Minside/static/js/main.06532f1d.chunk.js",
-    "main.js.map": "/Minside/static/js/main.06532f1d.chunk.js.map",
+    "main.css": "/Minside/static/css/main.f360fc94.chunk.css",
+    "main.js": "/Minside/static/js/main.c13057a5.chunk.js",
+    "main.js.map": "/Minside/static/js/main.c13057a5.chunk.js.map",
     "runtime~main.js": "/Minside/static/js/runtime~main.9981f551.js",
     "runtime~main.js.map": "/Minside/static/js/runtime~main.9981f551.js.map",
-    "static/js/2.3e282121.chunk.js": "/Minside/static/js/2.3e282121.chunk.js",
-    "static/js/2.3e282121.chunk.js.map": "/Minside/static/js/2.3e282121.chunk.js.map",
+    "static/js/2.45a148ca.chunk.js": "/Minside/static/js/2.45a148ca.chunk.js",
+    "static/js/2.45a148ca.chunk.js.map": "/Minside/static/js/2.45a148ca.chunk.js.map",
     "index.html": "/Minside/index.html",
-    "precache-manifest.bbb26bc0ad295a131b8927afbaf1d559.js": "/Minside/precache-manifest.bbb26bc0ad295a131b8927afbaf1d559.js",
+    "precache-manifest.6933515d6132825106989c452610be10.js": "/Minside/precache-manifest.6933515d6132825106989c452610be10.js",
     "service-worker.js": "/Minside/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/Minside/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/Minside/static/media/logo.5d5d9eef.svg"
+    "static/css/main.f360fc94.chunk.css.map": "/Minside/static/css/main.f360fc94.chunk.css.map"
   }
 }
