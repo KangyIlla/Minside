@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0514692d5a81158c1d0cafadfe3f3d2e",
+    "revision": "be7d170ba545334c403d997c00f7937d",
     "url": "/Minside/index.html"
   },
   {
-    "revision": "2db0da3d5880622eee65",
+    "revision": "8ec1203c8fa943240576",
     "url": "/Minside/static/css/main.f360fc94.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Minside/static/js/2.45a148ca.chunk.js"
   },
   {
-    "revision": "2db0da3d5880622eee65",
-    "url": "/Minside/static/js/main.3ba45039.chunk.js"
+    "revision": "8ec1203c8fa943240576",
+    "url": "/Minside/static/js/main.62c471ab.chunk.js"
   },
   {
     "revision": "12382c50079813fa3c2a",
