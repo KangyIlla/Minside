@@ -1,3 +1,23 @@
+
+
+This project is a star wars database that displays movies and <br>
+characters from star wars. I have used the api from [https://swapi.co/api/].<br>
+
+I have also used bootstrap for styling.<br>
+To run the program enter npm run when you are inside the project in the terminal.<br>
+
+In this assignment it was also mentioned that you should use the uio-git.<br>
+But I used my own github profile. I hope that is OK.<br>
+
+The project contains a 3 different pages. The first one is a main page.<br> Which contains to buttons which leads you to either
+movies or characters.<br> There is also a navbar which you can use 
+to navigate.<br> The other is a page that displays movie titles and
+some other relevant information.<br>Here I have used fetch to get alle the movies from the api.<br> The last one displays character.<br> Here I have also implemented paging and also used a modal to display detailed information about the characters.<br>
+Here I have also used fetch, but I had to do fetch multiple times to<br>
+get all characters, therefore I used do while loop.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
