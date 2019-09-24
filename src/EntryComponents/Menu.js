@@ -1,11 +1,15 @@
 import React from "react";
+import '../App.css';
 
-const Menu = () => {
+function Menu() {
     return (
-        <ul>
-            <li><a href="/#/About">About</a></li>
-            <li><a href="https://github.com/KangyIlla/Projects">Github</a></li>
-        </ul>
+        <nav className="navMenu navbar navbar-expand-md justify-content-center">
+            <ul className="navbar nav mr-auto">
+                <li className="nav-item"><a className="nav-link" href="#/">Home</a></li>
+                <li className="nav-item"><a className="nav-link" href="#/Movie">Movies</a></li>
+                <li className="nav-item"><a className="nav-link" href="#/Character">Characters</a></li>
+            </ul>
+        </nav>
     );
 };
 
